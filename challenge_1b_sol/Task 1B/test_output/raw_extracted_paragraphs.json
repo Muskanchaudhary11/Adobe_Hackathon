@@ -1,0 +1,55 @@
+[
+  {
+    "filename": "Learn Acrobat - Generative AI_2.pdf",
+    "extracted_paragraphs": [
+      {
+        "text": "This is the first paragraph on page one. It talks about general concepts and provides an introduction to the document's main theme. This paragraph is designed to be moderately long to test the splitting logic effectively.",
+        "page": 1
+      },
+      {
+        "text": "1. This is a list item that should ideally be filtered out later.",
+        "page": 1
+      },
+      {
+        "text": "Another short line of text that might be a caption or a header.",
+        "page": 1
+      },
+      {
+        "text": "A. A sub-point in a list.",
+        "page": 1
+      },
+      {
+        "text": "This is the second paragraph on page one. It continues the discussion from the first paragraph and delves into more specific details about the topic at hand. This paragraph is also crafted to be of a reasonable length.",
+        "page": 1
+      },
+      {
+        "text": "SECTION TITLE EXAMPLE",
+        "page": 2
+      },
+      {
+        "text": "This is a paragraph on page two. It introduces new ideas and concepts, building upon the foundation laid in the previous page. The content here is crucial for understanding the subsequent sections of the document. We ensure it's long enough.",
+        "page": 2
+      },
+      {
+        "text": "• A bullet point for a feature.",
+        "page": 2
+      },
+      {
+        "text": "This is another paragraph on page two. It provides further elaboration and examples to clarify the points made earlier. The aim is to offer comprehensive information to the reader without being overly verbose.",
+        "page": 2
+      },
+      {
+        "text": "Final thoughts and conclusions are presented on page three. This section summarizes the key findings and implications of the document, offering a concise overview for the reader to grasp the main takeaways. We are nearing the end of the document now.",
+        "page": 3
+      },
+      {
+        "text": "123",
+        "page": 3
+      },
+      {
+        "text": "END OF DOCUMENT",
+        "page": 3
+      }
+    ]
+  }
+]

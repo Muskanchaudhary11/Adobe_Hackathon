@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "timestamp": "2025-07-28T15:57:25.669437+00:00"
+  },
+  "top_headings": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page": 24,
+      "section_title": "Signing Workflow",
+      "importance_rank": 1,
+      "score": 0.5075
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 11,
+      "section_title": "Prepare Forms",
+      "importance_rank": 2,
+      "score": 0.497
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 14,
+      "section_title": "Prepare a form",
+      "importance_rank": 3,
+      "score": 0.4814
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 7,
+      "section_title": "Fill in interactive forms",
+      "importance_rank": 4,
+      "score": 0.4651
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 1,
+      "section_title": "Fill and sign PDF forms",
+      "importance_rank": 5,
+      "score": 0.4518
+    }
+  ],
+  "top_paragraphs": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page": 25,
+      "section_title": "For information on the available signing preferences, see “Signing Workflow\nPreferences” in the Digital Signature Guide.",
+      "importance_rank": 1,
+      "score": 0.4413
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 2,
+      "section_title": "You can complete the forms by entering information and adding your signatures. Acrobat\nalso allows you to send your completed forms to others and securely save them in Adobe\ncloud storage.",
+      "importance_rank": 2,
+      "score": 0.4386
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 1,
+      "section_title": "Fill and Sign PDF Forms\nYou can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types\nof PDF forms",
+      "importance_rank": 3,
+      "score": 0.4348
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 12,
+      "section_title": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing\ndocument.",
+      "importance_rank": 4,
+      "score": 0.4334
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page": 21,
+      "section_title": "•  Certify a document while leaving portions of it available for form filling, signatures, or",
+      "importance_rank": 5,
+      "score": 0.4268
+    }
+  ]
+}
